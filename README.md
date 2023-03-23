@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+**README**
+
+Billy is a web application that facilitates a seamless dining experience. Once seated at a participating restaurant, customers can scan a QR code using their smartphones to access the menu. Orders are placed and sent directly to the kitchen, with servers receiving notifications when the food is ready. Billy also includes the option for customers to split their bill in various ways such as by item, evenly, or by using a credit card roulette feature that randomly chooses who will pay. Payment can be made directly through the application. This eliminates the need for physical menus and traditional payment methods, streamlining the dining experience for both customers and staff.
